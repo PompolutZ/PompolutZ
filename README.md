@@ -1,4 +1,4 @@
-### Hi there 👋
+### An avid alchemist, working on formula :coffee: => :octocat:
 
 <!--
 **PompolutZ/PompolutZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
